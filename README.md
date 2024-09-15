@@ -2,7 +2,7 @@
 <h3 align="center">Full-Stack Software Engineer</h3>
 
 - 🔭 I’m currently working on [Marcel the
-Cat](https://marcel-the-cat.cyclic.app/)
+Cat](https://www.marcelthecat.com/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
