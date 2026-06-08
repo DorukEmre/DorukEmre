@@ -1,8 +1,27 @@
 <h1 align="center">Hi 👋, I'm Doruk</h1>
 <h3 align="center">Full-Stack Software Engineer</h3>
 
-- 🔭 I’m currently working on [Marcel the
-Cat](https://www.marcelthecat.com/)
+## 🔭 What I'm Working On
+
+### [Marcel the Cat](https://www.marcelthecat.com/) — A Social Platform with Geolocation
+A location-aware social platform.  
+**Stack:** `React` · `Node.js` `Express` · `MongoDB` · `Docker`  
+🔗 Live Site [marcelthecat.com](https://www.marcelthecat.com/) · 💻 [GitHub](https://github.com/DorukEmre/marcel-react-docker)
+
+---
+
+### [Ticket Booking Platform](https://ticket-booking.dorukemre.dev/) — Microservices with Event Streaming
+A distributed ticket booking system built on microservices architecture using event-driven patterns.  
+**Stack:** `React` `TypeScript` `Bootstrap` · `Java` `Spring Boot` `.NET` · `Kafka` `Redis` `MySQL` · `Docker`  
+🔗 Live Demo [ticket-booking.dorukemre.dev/](https://ticket-booking.dorukemre.dev/) · 💻 [GitHub](https://github.com/DorukEmre/java-ticket-booking-kafka)
+
+---
+
+### [Help Desk System](https://help-desk.dorukemre.dev/) — AI-Powered Ticket Automation
+An intelligent help desk platform that automates ticket routing and resolution using AI.  
+**Stack:** `React` `TypeScript` `Bootstrap` · `Java` `Spring Boot` `AI integration` · `MongoDB` · `Docker`  
+🔗 Live Demo [help-desk.dorukemre.dev/](https://help-desk.dorukemre.dev/) · 💻 [GitHub](https://github.com/DorukEmre/java-ai-help-desk)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
